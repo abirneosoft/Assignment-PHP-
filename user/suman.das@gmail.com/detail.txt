@@ -1,0 +1,1 @@
+{"email":"suman.das@gmail.com","password":"12345","name":"Suman","age":"14","gender":"male","image":"user\/suman.das@gmail.com\/img-739619529-1633326570.jpg"}
